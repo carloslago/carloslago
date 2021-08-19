@@ -1,5 +1,10 @@
 ### Hi there, I am Carlos 🐔
 
+I am a Machine Learning student 🎓 with a background in computer and electrical engineering, currently working as a summer intern at Ericsson GAIA in the field of object detection and semi-supervised learning. I have also worked in projects related to IoT and Machine Learning in healthcare during my studies.
+
+As for personal projects, I am currently co-founder and ML engineer at [Riedia](www.riedia.com). We are creating AI summarized news 📰, highlighting the essence for the users, and served in a personalized, customizable way.
+
+
 <!--
 **carloslago/carloslago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
