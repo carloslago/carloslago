@@ -1,6 +1,6 @@
 ### Hi there, I am Carlos 🐔
 
-I am co-founder and CTO at [Riedia](http://www.riedia.com). Oour mission is to help you read local news anywhere in any language. You can read more about us [here](https://www.riedia.com/about/).
+I am co-founder and CTO at [Riedia](http://www.riedia.com). Our mission is to help you read local news anywhere in any language. You can read more about us [here](https://www.riedia.com/about/).
 
 I have a Machine Learning master's degree 🎓 with a background in computer and electrical engineering, with experience at Ericsson GAIA in the field of object detection and semi-supervised learning. I have also worked in projects related to IoT and Machine Learning in healthcare during my studies.
 
